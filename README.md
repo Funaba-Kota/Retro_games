@@ -16,8 +16,10 @@ Pyxel (ピクセル)というライブラリを使ってレトロゲームを作
 
 1. Pythonをインストール  
      - 公式サイト https://www.python.org/downloads/release/python-3126/ でダウンロード  
+       ※Pathを通す
+       
      <br>  
-     - インストール後に以下のコマンドでインストールされていることを確認
+     - インストール後に以下のコマンドでインストールされていることを確認  
      ```bash
        python --version
      ```  
